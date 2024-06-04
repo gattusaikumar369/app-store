@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.tab-item-container {
+  padding-left: 14px;
+}
+
+.tab-button {
+  font-family: roboto;
+  font-weight: 500;
+  background-color: transparent;
+  border: none;
+  font-size: 18px;
+  color: #7b8794;
+  cursor: pointer;
+}
+.hr-line {
+  color: #7b8794;
+  width: 100px;
+}
+
+.button-color {
+  color: #2563eb;
+}
+
+color-line {
+ color: #2563eb;
+}
